@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background: black;
+}
+
+
+
+body {
+    color: rgb(224, 0, 0);
+    background: rgb(19, 18, 18);
+    margin: 0px;
+}
+section {
+    background: rgb(116, 10, 230);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+img {
+    height: 200px;
+  }
